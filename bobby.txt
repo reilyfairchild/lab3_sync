@@ -3,5 +3,5 @@ bob
 alice
 disruption
 =======
-bob
+
 >>>>>>> origin
