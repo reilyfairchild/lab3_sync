@@ -1,3 +1,7 @@
 bob
+<<<<<<< HEAD
 alice
 disruption
+=======
+bob
+>>>>>>> origin
