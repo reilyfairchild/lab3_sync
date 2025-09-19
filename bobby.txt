@@ -1,7 +1,10 @@
 bob
-<<<<<<< HEAD
 alice
-disruption
+<<<<<<< HEAD
+
+=======
+
+>>>>>>> origin
 =======
 
 >>>>>>> origin
